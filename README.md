@@ -8,7 +8,7 @@ Welcome to the Quote App Website! This project is a simple and elegant web appli
 - **Flexbox** 
 - **JavaScript**
 
-  ## Features
+## Features
 - Displays random quotes on page load
 - Fetches quotes from a pre-defined array or an external API
 - User-friendly and responsive design
